@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* RESET */
+* {
+	margin:0;
+	padding:0;
+	list-style:none;
+	vertical-align:baseline;
+}
+
+/* LOGO */
+h1#logo {
+	background-image: url('../images/logo.png');
+	background-repeat: no-repeat;
+	text-indent: -999px;
+	height: 55px;
+}
